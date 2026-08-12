@@ -8,3 +8,12 @@ df = pd.DataFrame(datos)
 
 # 3. Mostrar la tabla
 print(df)
+
+# --- Segundo Ejemplo ---
+print("\n--- Segundo Ejemplo ---")
+datos2 = {'Producto': ['Camisa', 'Pantalón'], 'Precio': [20, 50]}
+df2 = pd.DataFrame(datos2)
+
+# Sumar todos los precios
+total = df2['Precio'].sum()
+print(f"Total a pagar: {total}")

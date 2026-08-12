@@ -6,3 +6,6 @@ Fruta  Cantidad
 0  Manzana        10
 1     Pera         5
 2   Banano        20
+
+## Resultado de la ejecución 2 ejemplo:
+Total a pagar: 70
