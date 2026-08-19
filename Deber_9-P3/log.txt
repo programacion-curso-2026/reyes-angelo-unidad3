@@ -1,0 +1,3 @@
+Intento fallido de venta: ID 'P005' no existe en el catálogo.
+Intento fallido de venta: ID 'P005' no existe en el catálogo.
+Intento fallido de venta: ID 'P005' no existe en el catálogo.
